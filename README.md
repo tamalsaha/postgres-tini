@@ -1,5 +1,7 @@
 # postgres-tini
 
+Use https://github.com/krallin/tini as PID 1
+
 ```
 $ docker build -t mypg .
 
